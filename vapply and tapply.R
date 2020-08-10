@@ -1,4 +1,4 @@
-Vapply and Tapply
+Swirl 12. Vapply and Tapply
 
 
 R version 4.0.0 (2020-04-24) -- "Arbor Day"
